@@ -1,7 +1,7 @@
 <h5 align="left">💫 About Me:<br>🎨 Creative Side: Deeply interested in UI/UX Design and Surrealism as an art style.<br>- 💻 Technical Side: Actively developing projects using Laravel and PHP.<br>- 🏗️ Current Project: I'm currently in the process of building a website to showcase my work.<br>- 🎮 Fun Fact: When I'm not coding, you can find me in Minecraft or troubleshooting tactical games.<br>- 💬 Ask me about: Web development, wireframing, or why surrealism is the coolest art movement.</h5>
 
 ###
-
+<img align="right" height="250" src="https://i.imgflip.com/aue1ye.gif" />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrixvii&show_icons=true&theme=radical" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrixvii&layout=compact&theme=radical" height="150" alt="languages graph"  />
@@ -44,9 +44,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/aue1ye.gif"  />
 
 ###
 
