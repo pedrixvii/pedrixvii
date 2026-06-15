@@ -1,15 +1,19 @@
-<h5 align="left">💫 About Me:<br>🎨 Creative Side: Deeply interested in UI/UX Design and Surrealism as an art style.<br>- 💻 Technical Side: Actively developing projects using Laravel and PHP.<br>- 🏗️ Current Project: I'm currently in the process of building a website to showcase my work.<br>- 🎮 Fun Fact: When I'm not coding, you can find me in Minecraft or troubleshooting tactical games.<br>- 💬 Ask me about: Web development, wireframing, or why surrealism is the coolest art movement.</h5>
+
 
 ###
-<img align="right" height="250" src="https://i.imgflip.com/aue1ye.gif" />
+<h5 align="center">
+  ✦ <b>Bridging Logic & Creativity</b><br><br>
+  UI/UX enthusiast and Laravel developer. I enjoy turning complex problems into intuitive, beautiful, and functional digital experiences.<br><br>
+  - 🛠️ Actively working with PHP, Laravel, and front-end technologies.<br>
+  - 🚀 Currently building a diecast tracker app and a personal showcase site.<br>
+  - 🎨 Inspired by Surrealism, wireframing, and clean interfaces.<br>
+  - 👾 Aficionado of tactical games, Minecraft server hosting, and lo-fi study sessions.<br><br>
+  <i>"Always eager to discuss code architecture or the best surrealist artists."</i>
+</h5>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrixvii&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrixvii&layout=compact&theme=radical" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -29,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/xluz.env/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -44,7 +48,9 @@
   </a>
 </div>
 
-
+<div align="center">
+  <img src="https://media.tenor.com/_-SYk3dNypgAAAAi/sxxy.gif" height="200" alt="animasi gif" />
+</div>
 ###
 
 <picture>
