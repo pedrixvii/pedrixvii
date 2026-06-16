@@ -10,6 +10,11 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+<p align="center">
+  <a href="https://discord.com/users/718463421129162763" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/718463421129162763?theme=dark&bg=00000000&animated=true&hideDiscrim=true" alt="Discord Status" />
+  </a>
+</p>
 - UI/UX enthusiast and Laravel developer. I enjoy turning complex problems into intuitive, beautiful, and functional digital experiences.
 - 🛠️ Actively working with PHP, Laravel, and front-end technologies.
 - 🚀 Currently building a booking app and a ui/ux website meme coin.
@@ -29,15 +34,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=pedrixvii&theme=nightowl&hide_border=true&cache_seconds=86400" alt="pedrixvii's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=pedrixvii&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Farel's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrixvii&theme=nightowl&radius=10" alt="pedrixvii's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 ## 🛠️ Languages & Tools
 
@@ -85,14 +81,11 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/farel-febrian-nur-7427bb298/" target="_blank">
+  <a href="https://www.linkedin.com/in/farelfebriannur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://wa.me/6285882903058" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:farelfebriannur@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.instagram.com/xluz.env" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -104,7 +97,7 @@
 </p>
 
 <p align="center">
-  <a href="https://saweria.co/USERNAME_SAWERIA_KAMU" target="_blank">
+  <a href="https://saweria.co/RELLN" target="_blank">
     <img src="https://img.shields.io/badge/Support_me_on-Saweria-F5A623?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Saweria" />
   </a>
 </p>
