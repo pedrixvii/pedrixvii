@@ -5,7 +5,7 @@
   ✦ <b>Bridging Logic & Creativity</b><br><br>
   UI/UX enthusiast and Laravel developer. I enjoy turning complex problems into intuitive, beautiful, and functional digital experiences.<br><br>
   - 🛠️ Actively working with PHP, Laravel, and front-end technologies.<br>
-  - 🚀 Currently building a diecast tracker app and a personal showcase site.<br>
+  - 🚀 Currently building a booking app and a ui/ux website meme coin.<br>
   - 🎨 Inspired by Surrealism, wireframing, and clean interfaces.<br>
   - 👾 Aficionado of tactical games, Minecraft server hosting, and lo-fi study sessions.<br><br>
   <i>"Always eager to discuss code architecture or the best surrealist artists."</i>
@@ -51,7 +51,6 @@
 <div align="center">
   <img src="https://media.tenor.com/_-SYk3dNypgAAAAi/sxxy.gif" height="200" alt="animasi gif" />
 </div>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrixvii/pedrixvii/pacman-output/pacman-contribution-graph-dark.svg">
